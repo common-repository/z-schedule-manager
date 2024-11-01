@@ -1,0 +1,450 @@
+
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Hour"
+msgid_plural "%d Hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#  short duration format in days, for example 4 d
+msgid "%d d"
+msgstr ""
+
+#  short duration format in hours, for example 2 hr
+msgid "%d hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%d min"
+msgstr ""
+
+#  short duration format in days, for example 4 d
+msgid "%s d"
+msgstr ""
+
+#  short duration format in hours, for example 2 hr
+msgid "%s hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%s min"
+msgstr ""
+
+msgid "1 Day Off"
+msgid_plural "%d Days Off"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 Day On"
+msgid_plural "%d Days On"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1st"
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "3rd From End"
+msgstr ""
+
+msgid "4th"
+msgstr ""
+
+msgid "4th From End"
+msgstr ""
+
+msgid "5th"
+msgstr ""
+
+msgid "5th From End"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Class"
+msgstr ""
+
+msgid "Add New Schedule"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+#  duration, during all day
+msgid "All Day"
+msgstr ""
+
+msgid "All Schedules"
+msgstr ""
+
+msgid "All Time"
+msgstr ""
+
+#  short April
+msgid "Apr"
+msgstr ""
+
+msgid "At least %s characters required"
+msgstr ""
+
+#  short August
+msgid "Aug"
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "Class Schedule"
+msgstr ""
+
+msgid "Classes"
+msgstr ""
+
+msgid "Custom Range"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Days Off"
+msgstr ""
+
+msgid "Days On"
+msgstr ""
+
+msgid "Days On, Days Off"
+msgstr ""
+
+#  short December
+msgid "Dec"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Edit Class"
+msgstr ""
+
+msgid "Edit Schedule"
+msgstr ""
+
+msgid "Edit WordPress User Account"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#  every weekdays, for example "Every Mon, Wed, Fri"
+msgid "Every %s"
+msgstr ""
+
+#  for example "Every 1st Tue of Every Month"
+msgid "Every %s of Every Month"
+msgstr ""
+
+msgid "Every Day"
+msgstr ""
+
+msgid "Every Year"
+msgstr ""
+
+#  short February
+msgid "Feb"
+msgstr ""
+
+#  short Friday
+msgid "Fri"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+#  from date, for example From 1 Jun 2016
+msgid "From %s"
+msgstr ""
+
+msgid "From Date"
+msgstr ""
+
+msgid "From End"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "It can not exceed %s characters in length"
+msgstr ""
+
+#  short January
+msgid "Jan"
+msgstr ""
+
+#  short July
+msgid "Jul"
+msgstr ""
+
+#  short June
+msgid "Jun"
+msgstr ""
+
+#  from end, e.g. last monday
+msgid "Last"
+msgstr ""
+
+#  short March
+msgid "Mar"
+msgstr ""
+
+#  short May
+msgid "May"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+#  short Monday
+msgid "Mon"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "New Class"
+msgstr ""
+
+msgid "New Schedule"
+msgstr ""
+
+msgid "New User"
+msgstr ""
+
+msgid "No Classes Found"
+msgstr ""
+
+msgid "No Schedule Found"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+#  short November
+msgid "Nov"
+msgstr ""
+
+msgid "Number of events"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+#  short October
+msgid "Oct"
+msgstr ""
+
+#  next to last, e.g. penultimate monday
+msgid "Penultimate"
+msgstr ""
+
+msgid "Permanently"
+msgstr ""
+
+msgid "Recurrence"
+msgstr ""
+
+msgid "Repeat %d Times"
+msgstr ""
+
+msgid "Repeat Until"
+msgstr ""
+
+msgid "Required field"
+msgstr ""
+
+#  short Saturday
+msgid "Sat"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Schedule Details"
+msgstr ""
+
+msgid "Search Classes"
+msgstr ""
+
+msgid "Search Schedules"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+#  short September
+msgid "Sep"
+msgstr ""
+
+msgid "Sequence"
+msgstr ""
+
+#  short Sunday
+msgid "Sun"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "The %s field does not match the %s field"
+msgstr ""
+
+msgid "These values should differ from each other"
+msgstr ""
+
+msgid "This value is already used"
+msgstr ""
+
+#  short Thursday
+msgid "Thu"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+#  short Tuesday
+msgid "Tue"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+#  until date, for example Until 1 Jun 2016
+msgid "Until %s"
+msgstr ""
+
+#  it refers to the upcoming time range
+msgid "Upcoming"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User added"
+msgstr ""
+
+msgid "User deleted"
+msgstr ""
+
+msgid "User updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Valid email address required"
+msgstr ""
+
+msgid "View Classes"
+msgstr ""
+
+msgid "View Schedule"
+msgstr ""
+
+#  short Wednesday
+msgid "Wed"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Week Starts On"
+msgstr ""
+
+msgid "Weekday"
+msgstr ""
+
+msgid "Weekdays"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "WordPress Role Mapping"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr ""
+
+msgid "Yearly"
+msgstr ""
+
+
